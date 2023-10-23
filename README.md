@@ -1,6 +1,6 @@
 # astrophysics-exercises
 astrophysics exercises solved with python 
-# Rossman solutions running on python 3.8
+
 
 # Run commands
 
